@@ -16,3 +16,5 @@ public class BubbleSort {
         }
     }
 }
+
+//Para que sea de forma descendente se utiliza el símbolo <
